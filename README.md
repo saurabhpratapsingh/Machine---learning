@@ -1,6 +1,6 @@
 # Machine---learning-
 
-The basic house price prediction model
+The basic Titanic data prediction model
 
 basic Data analysis
 
